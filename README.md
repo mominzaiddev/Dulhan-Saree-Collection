@@ -4,7 +4,7 @@ Responsive business website for Dulhan Saree Collection, a saree shop in Govandi
 
 A fully frontend website for **Dulhan Saree Collection**, a saree shop in **Govandi, Mumbai**. It helps customers discover the latest collections and get the shop's information in one place.
 
-🔗 **Live Demo:** [https://deft-druid-394999.netlify.app/](https://dulhan-saree-collection.netlify.app/)
+🔗 **Live Demo:** [Dulhan Saree Collection.netlify.app/](https://dulhan-saree-collection.netlify.app/)
 
 ## ✨ Features
 
