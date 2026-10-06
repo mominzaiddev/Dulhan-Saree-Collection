@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deft-druid-394999.netlify.app/sitemap.xml
